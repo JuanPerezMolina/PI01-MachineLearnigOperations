@@ -1,4 +1,5 @@
-<p align=center><img src=https://media.istockphoto.com/id/1361894912/es/vector/extracci%C3%B3n-transformaci%C3%B3n-y-carga-de-datos.jpg?s=612x612&w=is&k=20&c=2BN9qDMLJ8avedxayE-TKJu3tWU1X2aTwCHzq0AndHA=><p>
+
+<p align=center><img src=https://datascientest.com/es/wp-content/uploads/sites/7/2020/11/illu_machine_learning_blog-19-1024x562.png.webp><p>
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
 
