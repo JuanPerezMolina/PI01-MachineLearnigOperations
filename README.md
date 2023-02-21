@@ -60,7 +60,7 @@ Como parte del equipo de data de la empresa, el área de análisis de datos le s
 
 <br/>
 
-**`Video`**: El Tech Lead que solicitó esta tarea pidió que sintetice en un video de ***5 minutos*** mi trabajo resaltando cómo este ayuda a los analistas de datos. Ver [aqui](https://youtu.be/K5Ca9gsUwzw/) el video sobre el trabajo)
+**`Video`**: El Tech Lead que solicitó esta tarea pidió que sintetice en un video de ***5 minutos*** mi trabajo resaltando cómo este ayuda a los analistas de datos. Ver [aqui](https://youtu.be/gRosvacOKNs) el video sobre el trabajo)
 
 
 <br/>
